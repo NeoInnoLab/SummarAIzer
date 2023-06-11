@@ -7,7 +7,9 @@ const Hero = () => {
         <img src={logo} alt='sumz_logo' />
         <button
           type='button'
-          onClick={() => window.open('https://github.com/')}
+          onClick={() =>
+            window.open('https://github.com/NeoInnoLab/SummarAIzer', '_blank')
+          }
           className='black_btn'
         >
           GitHub
