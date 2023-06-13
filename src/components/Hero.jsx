@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <header className='w-full flex justify-center items-center flex-col'>
       <nav className='flex justify-between items-center w-full mb-10 pt-3'>
-        <img src={logo} alt='sumz_logo' />
+        <img src={logo} alt='sumz_logo' className='h-8' />
         <button
           type='button'
           onClick={() =>
@@ -18,7 +18,7 @@ const Hero = () => {
 
       <h1 className='head_text'>
         Summarize Articles with <br className='max-md:hidden' />
-        <span className='orange_gradient'>OpenAI GPT-3.5</span>
+        <span className='purple_gradient'>OpenAI GPT-3.5</span>
       </h1>
       <h2 className='desc'>
         Turns your reading into easy-to-digest summaries with SummarAIzer.{' '}
