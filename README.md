@@ -1,4 +1,4 @@
-# [SummarAIzer](https://main--luminous-heliotrope-8bacf5.netlify.app/)
+# SummarAIzer - [Link](https://main--luminous-heliotrope-8bacf5.netlify.app/)
 
 SummarAIzer is an innovative open-source tool designed to streamline the consumption of information. Leveraging the advanced capabilities of OpenAI's GPT-3.5, this article summarizer excels in distilling lengthy articles into clear, concise summaries. With a user-friendly interface, individuals can easily access SummarAIzer by pasting the URL of the article they wish to summarize directly into the application.
 
